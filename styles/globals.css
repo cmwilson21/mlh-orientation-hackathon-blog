@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.logo {
+  height: 50px;
+  border-radius: 5%;
+  margin-left: 60%;
+  position: fixed;
+}
+
+.navbar {
+  border-bottom: 1;
+}
